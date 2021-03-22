@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/booktopia/static/css/main.1b92b90c.chunk.css",
-    "main.js": "/booktopia/static/js/main.9b0ea63b.chunk.js",
-    "main.js.map": "/booktopia/static/js/main.9b0ea63b.chunk.js.map",
+    "main.css": "/booktopia/static/css/main.7511c1c4.chunk.css",
+    "main.js": "/booktopia/static/js/main.37c40ac0.chunk.js",
+    "main.js.map": "/booktopia/static/js/main.37c40ac0.chunk.js.map",
     "runtime-main.js": "/booktopia/static/js/runtime-main.7ff1ee5c.js",
     "runtime-main.js.map": "/booktopia/static/js/runtime-main.7ff1ee5c.js.map",
-    "static/js/2.e532c2a0.chunk.js": "/booktopia/static/js/2.e532c2a0.chunk.js",
-    "static/js/2.e532c2a0.chunk.js.map": "/booktopia/static/js/2.e532c2a0.chunk.js.map",
+    "static/js/2.a7ab1958.chunk.js": "/booktopia/static/js/2.a7ab1958.chunk.js",
+    "static/js/2.a7ab1958.chunk.js.map": "/booktopia/static/js/2.a7ab1958.chunk.js.map",
     "index.html": "/booktopia/index.html",
     "service-worker.js": "/booktopia/service-worker.js",
     "service-worker.js.map": "/booktopia/service-worker.js.map",
-    "static/css/main.1b92b90c.chunk.css.map": "/booktopia/static/css/main.1b92b90c.chunk.css.map",
-    "static/js/2.e532c2a0.chunk.js.LICENSE.txt": "/booktopia/static/js/2.e532c2a0.chunk.js.LICENSE.txt",
+    "static/css/main.7511c1c4.chunk.css.map": "/booktopia/static/css/main.7511c1c4.chunk.css.map",
+    "static/js/2.a7ab1958.chunk.js.LICENSE.txt": "/booktopia/static/js/2.a7ab1958.chunk.js.LICENSE.txt",
     "static/media/App.css": "/booktopia/static/media/Vazir.dbdac31d.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.7ff1ee5c.js",
-    "static/js/2.e532c2a0.chunk.js",
-    "static/css/main.1b92b90c.chunk.css",
-    "static/js/main.9b0ea63b.chunk.js"
+    "static/js/2.a7ab1958.chunk.js",
+    "static/css/main.7511c1c4.chunk.css",
+    "static/js/main.37c40ac0.chunk.js"
   ]
 }
