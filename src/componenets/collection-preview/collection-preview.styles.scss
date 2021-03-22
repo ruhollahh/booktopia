@@ -1,0 +1,16 @@
+.collection-preview {
+  margin-top: 2rem;
+  padding: 0 2rem;
+
+  & h2 {
+    font-size: 1.5;
+  }
+
+  & .preview {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 35ch);
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 0.75rem;
+  }
+}
