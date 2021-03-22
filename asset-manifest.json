@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/booktopia/static/css/main.7511c1c4.chunk.css",
-    "main.js": "/booktopia/static/js/main.f3ace230.chunk.js",
-    "main.js.map": "/booktopia/static/js/main.f3ace230.chunk.js.map",
+    "main.js": "/booktopia/static/js/main.1fa00ca4.chunk.js",
+    "main.js.map": "/booktopia/static/js/main.1fa00ca4.chunk.js.map",
     "runtime-main.js": "/booktopia/static/js/runtime-main.7ff1ee5c.js",
     "runtime-main.js.map": "/booktopia/static/js/runtime-main.7ff1ee5c.js.map",
     "static/js/2.a7ab1958.chunk.js": "/booktopia/static/js/2.a7ab1958.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7ff1ee5c.js",
     "static/js/2.a7ab1958.chunk.js",
     "static/css/main.7511c1c4.chunk.css",
-    "static/js/main.f3ace230.chunk.js"
+    "static/js/main.1fa00ca4.chunk.js"
   ]
 }
